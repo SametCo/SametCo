@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1223431384702648521/1483641038005338172/Unreal-Engine-5.4-vs-Unity-2025.png?ex=69bb53e4&is=69ba0264&hm=35c36046a0a22170bbc397ce7fb6f50f9c83837f3962cd0f0c409165bada2119&" /> 
+</p>
 <h1 align="center">Hi 👋, I'm Samet COBAN</h1>
 <h3 align="center">A passionate Game Developer building 3D FPS games with Unity & Unreal Engine | Gameplay & Systems | Open to Work (Remote)</h3>
 
